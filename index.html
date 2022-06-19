@@ -33,25 +33,3 @@ title: Cyber and Threat Intelligence Summit 2022  (CTIS)
         <a href="https://www.threat-intelligence.eu/"><img src="/assets/img/theme-images/ti-eu.png"/></a>
     </div>
 </section>
-
-<section>
-    <div class="container">
-        <div class="row" id="testimonials">
-            {% for testimonial in site.data.testimonials %}
-            <div class="col-sm-6 col-md-4 testimonial">
-                <div class="thumbnail">
-                    <div class="speech-bubble">
-                        <div class="arrow bottom right"></div>
-                        {{ testimonial.blurb }}
-                    </div>
-                    <div class="caption">
-                        <h3><a href="https://twitter.com/{{ testimonial.twitter }}">{{ testimonial.name }}</a></h3>
-                        <p>{{ testimonial.org }}</p>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-            <script src="{{ "/assets/js/testimonials.js" | relative_url }}"></script>
-        </div>
-    </div>
-</section>
