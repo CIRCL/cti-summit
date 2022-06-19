@@ -37,9 +37,9 @@ image-attributions:
 # as displays in a few other places.
 # if true Speakers link -> /speakers/, if false -> /speakers/past-keynotes
 have-talks: true
-have-workshops: true
+have-workshops: false 
 # if true Schedule link -> /schedule/, if false -> /schedule/timeline
-have-schedule: true
+have-schedule: true 
 
 # day 0 = preconf day
 days:
@@ -140,20 +140,14 @@ closed-captioning:
 
 # Peri display descriptions and titles
 peri:
-  day1-am-title: 'Pre-Conference'
-  day1-am-desc: 'Workshops'
-  day1-pm-title: 'Newcomer Dinner'
-  day1-pm-desc: 'Dine-Around'
-  day2-am-title: 'Conference, Day 1'
-  day2-am-desc: 'Opening Keynote & Talks'
-  day2-pm-title: 'Reception'
-  day2-pm-desc: 'Pearl Street Grill & Brewery'
-  day3-am-title: 'Conference, Day 2'
-  day3-am-desc: 'Awesome Talks'
-  day3-pm-title: 'Game Night'
-  day3-pm-desc: 'Board or Card Games'
-  day4-am-title: 'Conference, Day 3'
-  day4-am-desc: 'Closing Keynote & Talks'
+  day1-am-title: 'Conference, Day 1'
+  day1-am-desc: 'Opening Keynote & Talks'
+  day1-pm-title: 'Reception'
+  day1-pm-desc: 'Pearl Street Grill & Brewery'
+  day2-am-title: 'Conference, Day 2'
+  day2-am-desc: 'Awesome Talks'
+  day2-pm-title: 'Game Night'
+  day2-pm-desc: 'Board or Card Games'
 
 ###########
 # Sponsors
@@ -274,7 +268,7 @@ tours:
   sign-up-button-text: ''
 
 game-night:
-  show: true
+  show: false 
   date: '2022-05-25'
   time: '7:00PM to 11:00PM'
   location: 'Wyndham Garden Buffalo Downtown, 125 High St, Buffalo, NY. Buffalo Room.'
@@ -305,11 +299,11 @@ trivia-night:
   sign-up-button-text: 'Sign Up! Registration Limited'
 
 diy-social:
-  show: true
+  show: false 
 
 # see also: dinner.yml file of restaurant locations
 newcomer-dinner:
-  show: true
+  show: false
   # entering the URL doubles as a "show more info" switch, too
   signup-url: 'https://docs.google.com/document/d/1kG53yWe3rVAx8ck4GaAv4bFRxKgthJgFZ3UzAFGrvbc/edit#'
   transit-info: 'https://docs.google.com/document/d/1kG53yWe3rVAx8ck4GaAv4bFRxKgthJgFZ3UzAFGrvbc/edit#'
@@ -324,7 +318,7 @@ libtech-women:
   hashtag: libtechwomen
 
 reception:
-  show: true
+  show: false 
   venue: 'Pearl Street Grill & Brewery'
   url: 'https://pearlstreetgrill.com/'
   street: '76 Pearl Street, Buffalo NY'
@@ -368,7 +362,7 @@ volunteer-onsite:
 
 criteria:
   # if you have this year's eligibility requirements, show criteria section on general-info/scholarships
-  show: true
+  show: false 
 
 angel-fund:
   show: false
@@ -394,13 +388,13 @@ diversity-scholarship-applications:
 # show sponsors for diversity scholarships on general-info/scholarships
 diversity-scholarship-sponsors:
   seeking: false
-  show: true
+  show: false 
 
 ################
 # Other
 ################
 
 quiet-room:
-  show: true
+  show: false 
   # Room number(s)
   location: '2212 A&B'

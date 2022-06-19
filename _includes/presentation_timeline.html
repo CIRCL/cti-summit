@@ -12,10 +12,10 @@
                     <div class="col-sm-7 col-12">
                         {% if event.groupId == 'key-open' %}
                             {% assign keynote = site.posts | where:"group",event.groupId %}
-                            <h2 class="cd-timeline-content-title"><a class="keynote-link" href="{{ keynote[0].url }}">{{ event.title }}</a></h2>
+                            <h2 class="cd-timeline-content-title"><a class="keynote-link" href="{{ keynote[0].url }}.html">{{ event.title }}</a></h2>
                         {% elsif event.groupId == 'key-close' %}
                             {% assign keynote = site.posts | where:"group",event.groupId %}
-                            <h2 class="cd-timeline-content-title"><a class="keynote-link" href="{{ keynote[0].url }}">{{ event.title }}</a></h2>
+                            <h2 class="cd-timeline-content-title"><a class="keynote-link" href="{{ keynote[0].url }}.html">{{ event.title }}</a></h2>
                         {% else %}
                             <h2 class="cd-timeline-content-title">{{ event.title }}</h2>
                             <p>{{ event.description }}</p>
