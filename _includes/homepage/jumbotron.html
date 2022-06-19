@@ -16,7 +16,7 @@
             <div class="col-12" id="conferenceInfo">
 
                 <h1 class="text-right">
-                    <span class="sr-only">code for lib {{site.data.conf.year}}</span>
+                    Cyber and Threat Intelligence Summit (CTIS-2022)<br/>
                     {{site.data.conf.location}}
                     {% if site.data.conf.online-only-conference %}
                         <small>{{site.data.conf.days[0].date-data | date: "%B %-d"}} - {{site.data.conf.days.last.date-data | date: "%-d"}} &#8226; Online</small>
@@ -44,7 +44,7 @@
                     {% endif %}
 
                     {% if site.data.conf.sponsor-buttons %}
-                        <a class="btn btn-lg jumbotron-btn" href="{{ site.baseurl }}{% link prospectus/index.html %}">Sponsor Code4Lib!</a>
+                        <a class="btn btn-lg jumbotron-btn" href="{{ site.baseurl }}{% link prospectus/index.html %}">Sponsor CTIS-2022!</a>
                     {% endif %}
 
                     {% if site.data.conf.slides.show %}

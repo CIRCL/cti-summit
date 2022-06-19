@@ -1,9 +1,9 @@
-url: http://2022.code4lib.org
+url: https://cti-summit.org
 permalink: /:categories/:title
 exclude: [vendor]
-repository: code4lib/2022.codelib.org
+repository: circl/cti-summit
 future: true
-timezone: America/New_York
+timezone: Europe/Luxembourg 
 sass:
   sass_dir: assets/_scss
 include:

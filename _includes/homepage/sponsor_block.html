@@ -4,6 +4,7 @@
         {% assign di_sponsors = site.data.sponsors | where: "level","diamond" %}
         {% assign plat_sponsors = site.data.sponsors | where: 'level','platinum' %}
 
+        
         {% if ad_sponsors.size > 0 or di_sponsors.size > 0 or plat_sponsors.size > 0 %}
             <h2 class="h3">Thanks to our sponsors!</h2>
             {% if ad_sponsors.size > 0 %}

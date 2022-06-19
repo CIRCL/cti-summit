@@ -1,6 +1,6 @@
 ---
 layout: default
-title: code4lib 2022
+title: Cyber and Threat Intelligence Summit 2022  (CTIS)
 ---
 
 {% include homepage/jumbotron.html %}
@@ -10,11 +10,11 @@ title: code4lib 2022
         {% unless site.data.conf.homepage-display == 'peri' %}
         <div class="row">
             <div class="col-12">
-                <h2>The conference for people who code for libraries.</h2>
+                <h2>The conference for the people doing Cyber and Threat Intelligence.</h2>
                 <p>
-                    An annual gathering of technologists from around the world, who largely work for and with libraries,
-                    archives, and museums and have a commitment to open technologies.
+                Cyber and Threat Intelligence Summit 2022 (CTIS) is a 2-day summit gathering all the experts, analysts, users and contributors to cyber and threat intelligence at large. CTIS includes the original MISP summit along with all other practices around threat intelligence. A strong focus will be given on projects bridging intelligence communities together and also open source related project. The conference will be a main track of talks composed of one day for intelligence (models, processes, methodologies, defense and sharing practices…) and one day for tooling (threat intelligence platform such as MISP, interconnecting tools and processes, producing actionable intelligence… )
                 </p>
+                <p>A call for paper/talk will open on the 1st of July 2022 for the analysts and organisations willing to participate, share and collaborate on the Cyber and Threat Intelligene topics. </p>
             </div>
         </div>
         {% endunless %}
@@ -25,29 +25,14 @@ title: code4lib 2022
 </section>
 
 
-{% if site.data.conf.location != '' %}
-<section class="welcome">
+<section>
     <div class="container">
-        <div class="row section">
-            <div class="col-lg-3 col-md-5 col-xs-12">
-                <img class="w-100" src="assets/img/theme-images/flag_of_buffalo_ny.png"
-                    alt="Flag for City of Buffalo, New York" title="Flag for City of Buffalo, New York">
-            </div>
-            <div class="col-lg-9 col-md-7 col-xs-12">
-                <h2>Welcome to {{site.data.conf.location}}, {{site.data.conf.catchline}}</h2>
-                <p>{{site.data.conf.welcome-message}}</p>
-                {% if site.data.conf.venue.name != nil %}
-                <p>
-                    The conference will take place at the <a class="welcome" href="{{site.data.conf.venue.website}}">{{site.data.conf.venue.name}}</a>,
-                    right in downtown {{ site.data.conf.location }}.
-                </p>
-                {% endif %}
-            </div>
-        </div>
+        <h2>Organized and supported by</h2>
+        <a href="https://www.circl.lu/"><img src="/assets/img/theme-images/circl-lu.png" width="200" /></a>
+        <a href="https://www.misp-project.org/"><img src="/assets/img/theme-images/misp-logo.png"/></a>
+        <a href="https://www.threat-intelligence.eu/"><img src="/assets/img/theme-images/ti-eu.png"/></a>
     </div>
 </section>
-{% endif %}
-
 
 <section>
     <div class="container">
