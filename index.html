@@ -1,6 +1,16 @@
 ---
 layout: default
 title: Cyber and Threat Intelligence Summit 2022  (CTIS)
+sponsorLevels:
+- adamantium
+- diamond
+- platinum
+- gold
+- silver
+- bronze
+- contributor
+- supporter
+- giveaway
 ---
 
 {% include homepage/jumbotron.html %}
@@ -32,4 +42,16 @@ title: Cyber and Threat Intelligence Summit 2022  (CTIS)
         <a href="https://www.misp-project.org/"><img src="/assets/img/theme-images/misp-logo.png"/></a>
         <a href="https://www.threat-intelligence.eu/"><img src="/assets/img/theme-images/ti-eu.png"/></a>
     </div>
+    <div class="container">
+        <div class="row">
+        {% for level in page.sponsorLevels %}
+        {% assign sponsors = site.data.sponsors | where: "level",level %}
+        {% if sponsors.size > 0 %}
+            {% include /sponsors/group_display.html level=level %}
+        {% endif %}
+        {% endfor %}
+        </div>
+    </div>
+
+
 </section>

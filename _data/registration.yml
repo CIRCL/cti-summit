@@ -7,7 +7,7 @@
 conference:
   # "show" means display information on the home page and /general-info/attend
   show: true
-  url: https://www.xing-events.com 
+  url: https://www.cti-summit.org/general-info/registration.html 
   start-date: 2022-06-20
   end-date: 2022-10-20
   cancellation-date: 2022-10-01
