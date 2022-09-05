@@ -98,12 +98,12 @@ social-links:
 # Various Emails/contact info
 #############################
 
-main-conf-email: 'info@circl.lu'
-sponsor-contact-email: 'info@circl.lu'
-scholarship-contact-email: 'info@circl.lu'
-workshop-contact-email: 'info@circl.lu'
-lpc-contact-email: 'info@circl.lu'
-accessibility-email: 'info@circl.lu'
+main-conf-email: 'ctis@circl.lu'
+sponsor-contact-email: 'ctis@circl.lu'
+scholarship-contact-email: 'ctis@circl.lu'
+workshop-contact-email: 'ctis@circl.lu'
+lpc-contact-email: 'ctis@circl.lu'
+accessibility-email: 'ctis@circl.lu'
 # when empty, community support volunteers page will use main-conf-email
 community-support-email: 'info@circl.lu'
 # community-support-phone: '510-423-3356'
