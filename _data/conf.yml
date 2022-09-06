@@ -105,7 +105,7 @@ workshop-contact-email: 'ctis@circl.lu'
 lpc-contact-email: 'ctis@circl.lu'
 accessibility-email: 'ctis@circl.lu'
 # when empty, community support volunteers page will use main-conf-email
-community-support-email: 'info@circl.lu'
+community-support-email: 'ctis@circl.lu'
 # community-support-phone: '510-423-3356'
 anonymous-form: 'https://www.circl.lu/contactform/'
 
