@@ -12,4 +12,18 @@
   image_alt: "Photo of Patrice Auffret"
   image_src: /assets/img/speakers/patrice-auffret.jpeg
   keynote: true
+- id: gregory-boddin 
+  name: Gregory Boddin 
+  last: Boddin 
+  pronouns:
+  institution: LeakIX 
+  position-title: CTO at LeakIX 
+  bio: "Having started his career as a sysadmin/DevOps in small to large companies and institutions, Gregory Boddin quickly became passionate with the security issues those positions incurred.
+He's a self-taught security researcher focusing on the mistakes made during deployment and configuration of the services building an infrastructure." 
+  twitter: leak_ix 
+  slack:
+  github:
+  image_alt: "Photo of Gregory Boddin"
+  image_src: /assets/img/speakers/boddin.jpeg
+  keynote: true
 
