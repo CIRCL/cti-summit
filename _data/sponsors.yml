@@ -36,7 +36,11 @@
 #
 - name: Deloitte
   img: /assets/img/sponsors/deloitte.png
-  link: https://deloitte.com/
+  link: https://www2.deloitte.com/lu/en.html
   level: gold
 
+- name: ThreatQuotient
+  img: /assets/img/sponsors/tq.png
+  link: https://www.threatq.com/
+  level: platinum
 
