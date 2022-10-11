@@ -109,14 +109,14 @@
 
 # keynotes
 - timeImg: 9.00.png
-  title: Opening Keynote
+  title: Opening Keynote with Patrice Auffret (ONYPHE)
   day1: true
   day2: false 
   groupId: key-open 
   time: 09:00-09:30
 
 - timeImg: 9.00.png
-  title: Closing Keynote
+  title: Closing Keynote with Gregory Boddin (LeakIX)
   day1: false
   day2: true
   groupId: key-close

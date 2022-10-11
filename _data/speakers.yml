@@ -49,3 +49,90 @@ He's a self-taught security researcher focusing on the mistakes made during depl
   slack:
   github:
   keynote: FALSE
+- id: louise-taggart
+  name: Louise Taggart
+  last: Taggart
+  pronouns:
+  institution: PwC’s Global Threat Intelligence
+  image_src: /assets/img/speakers/louise-taggart.png
+  position: Senior Manager at PwC’s Global Threat Intelligence team
+  bio: "Louise is a Senior Manager in PwC’s Global Threat Intelligence team, focusing on strategic analysis and working with clients across a variety of different industries and sectors to help them understand their specific cyber threat profiles. She tracks politically aligned malicious cyber activity associated with Eastern European threat actors, translating this into strategic analysis and reporting. Louise also hosts PwC's 'A to Z of Tech' podcast. Before joining PwC, Louise was head of the intelligence department at a boutique risk consultancy and has also worked as a researcher at two international think tanks. She holds MA (Hons) in Russian, MSt (Oxon) in Slavonic Studies, and MA in Politics, Security and Integration."
+  twitter:
+  slack:
+  github:
+  keynote: FALSE
+- id: olivier-memin
+  name: Olivier Memim
+  last: Memin
+  institution: ANSSI
+  image_src: /assets/img/speakers/olivier-memin.jpg
+  bio: "Olivier Mémin graduated from Grenoble INP Ensimag and had his first positions in the private sector as a network & telco expert. When joining ANSSI in 2016, he specialized as security architect with the key mission to help organizations protect their most critical IT systems. In 2021 he joined the IOC management unit as a coordinator with the objective to make internal tools and processes as much actionable as possible for IOC."
+  keynote: FALSE
+- id: victor-barrault
+  name: Victor Barrault
+  last: Barrault
+  institution: ANSSI
+  image_src: /assets/img/speakers/victor-barrault.jpg
+  bio: "Victor Barrault graduated with a Bachelor in Computer Science and in Mathematics in 2020 and is currently pursuing a Master's degree in Cybersecurity at Université de Paris. He is in apprenticeship at ANSSI in the IOC management unit, since September 2021 mostly working on tooling. He is the main developer of the sftp2misp tool."
+  keynote: FALSE
+- id: paul-rascagneres
+  name: Paul Rascagneres
+  last: Rascagneres
+  institution: Volexity
+  bio: "Paul Rascagneres is a principal threat researcher at Volexity. He performs investigations to identify new threats. He has presented his findings in several publications and at international security conferences.  He has been involved in security research for 10 years, mainly focusing on malware analysis, malware hunting, and more specifically on advanced persistent threat (APT) campaigns and rootkit capabilities.  He previously worked for several incident response teams within the private and public sectors."
+  keynote: FALSE
+- id: robert-jan-mora
+  name: Robert Jan Mora
+  last: Mora
+  institution: Volexity
+  bio: "Robert Jan Mora is a principal threat investigator at Volexity. He used to manage the Threat and Analytics team at Shell. He also performed malware forensics in some high-profile breach investigations and security assessments for governments and corporations in previous roles. In addition, he tracks nation-state threat actors for fun, and assesses digital forensic candidates who apply as digital forensic expert witnesses for the Netherlands Register of Court Experts (NRGD)."
+  keynote: FALSE
+- id: axel-wauer
+  name: Axel Wauer
+  last: Wauer
+  institution: DCSO
+  image_src: /assets/img/speakers/axel-wauer.png
+  bio: "Axel is a Senior Threat Analyst at DCSO. He holds a Master's degree in IT Security from TU Darmstadt, which comes in handy at his daily work where he is responsible for technical threat analysis and CTI curation. Prior to working with DCSO, Axel has worked for Huawei and tracked Botnets for Fraunhofer FKIE.  His hands-on mentality and curiosity in combination with a lot of coffee have resulted in him running a Peer-to-Peer botnet tracker, owning a CVE and maintaining a PyPi package. Beside this, he is one of the authors for DCSO's technical analysis Blog 'DCSO CyTec'."
+  keynote: FALSE
+- id: cyril-bras
+  name: Cyril Bras
+  last: Bras
+  institution: Whaller
+  image_src: /assets/img/speakers/cyril-bras.jpg
+  bio: "Cyril Bras has been Director of Cybersecurity at Whaller since March 2022. He was previously the CISO for Grenoble-Alpes Métropole, where he initiated the creation of a CISO network for local authorities. He is also Vice President of the INCRT and is an IHEDN auditor for the 2nd national digital sovereignty and cybersecurity session. Finally, he is a citizen reserve officer with the French National Gendarmerie."
+  keynote: FALSE
+- id: robert-nixon
+  name: Robert Nixon
+  last: Nixon
+  institution: Nviso
+  image_src: /assets/img/speakers/robert-nixon.jpg
+  bio: "Robert Nixon is a seasoned cybersecurity veteran with more than 13 years of experience in the realm of information technology and cybersecurity.  He currently leads the Cyber Threat Intelligence services at NVISO as a part of the larger CSIRT and SOC Team.  He specializes in Cyber Threat Intelligence at tactical, organizational, and strategic levels; as well as automation, CTI infrastructure, malware analysis and SIEM integrations/use case development.  Robert also is a member of the NVISO CSIRT incident response team. Here is shows his skills in threat hunting, compromise assessments, and forensics."
+  keynote: FALSE
+- id: koen-van-impe
+  name: Koen Van Impe
+  last: Van Impe
+  institution: cudeso.be
+  image_src: /assets/img/speakers/koen-van-impe.jpeg
+  bio: "Incident Response & Threat Intelligence"
+  keynote: FALSE
+- id: mikesh-nagar
+  name: Mikesh Nagar
+  last: Nagar
+  institution: Kroll
+  image_src: /assets/img/speakers/mikesh-nagar.jpg
+  bio: "Mikesh Nagar is a Senior Associate in the in the Cyber Risk practice, based in London. Mikesh leverages extensive experience in applied threat intelligence, as well as in developing, provisioning and operating on-premises and cloud based solutions. Prior to joining Kroll, Mikesh was a security operations analyst at Redscan before it was acquired by Kroll in 2021. He is experienced in AWS, Microsoft Azure and Google Cloud among others. Further, Mikesh received a Bachelor of Science in Ethical Hacking and Network Security from Coventry University."
+  keynote: FALSE
+- id: patrick-grau
+  name: Patrick Grau
+  last: Grau
+  institution: Bosch
+  image_src: /assets/img/speakers/patrick-grau.jpg
+  bio: "Patrick Grau is the Cyber Threat Intelligence Lead at Bosch Group where he's hands-on managing and coordinating the CTI program. Prior to that, he was part of the Bosch CERT as an incident manager with a preference for analysis and digital forensics. In addition, he graduated somewhere, holds a degree in something, has some expired certificates and owns more than one computer."
+  keynote: FALSE
+- id: antoine-cailliau
+  name: Antoine Cailliau
+  last: Cailliau
+  institution: Belgian Defense
+  image_src: /assets/img/speakers/antoine-cailliau.jpg
+  bio: "Antoine Cailliau got a PhD degree in Computer Science Engineering from the Louvain School of Engineering, UCL (Belgium) in Feb 2018. His PhD thesis focused on risk management in software at a requirements-level. He is currently a Cyber Risk Prevention Expert for the Belgian Defense."
+  keynote: FALSE
