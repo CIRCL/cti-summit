@@ -14,147 +14,141 @@
 #  submenu: Reception
 
 # Announcements
-- timeImg: 9.00.png
-  title: Announcements and Welcome
-  day1: true
-  day2: true
-  time: 09:00-09:15
+#- timeImg: 9.00.png
+#  title: Announcements and Welcome
+#  day1: true
+#  day2: true
+#  time: 09:00-09:15
 
-- timeImg: 1.15.png
-  title: Announcements
+- timeImg: 1.30.png
+  title: Lightning talks 
   day1: true
   day2: true
-  time: 13:15-13:30
+  time: 13:30-14:00
 
 # Breaks
-- timeImg: 10.00.png
-  title: Morning Break
-  day1: true
-  day2: true
-  time: 10:00-10:15
+#- timeImg: 10.00.png
+#  title: Morning Break
+#  day1: true
+#  day2: true
+#  time: 10:00-10:15
   #menu: day1-menus
   #submenu: Morning
 
-- timeImg: 2.45.png
-  title: Afternoon Break
-  day1: true
-  time: 14:45-15:00
+  #- timeImg: 2.45.png
+  #title: Afternoon Break
+  #day1: true
+  #time: 14:45-15:00
   #menu: day1-menus
   #submenu: Afternoon
 
-- timeImg: 3.15.png
-  title: Afternoon Break
-  day2: true
-  time: 15:15-15:30
+  #- timeImg: 3.15.png
+  #title: Afternoon Break
+  #day2: true
+  #time: 15:15-15:30
   #menu: day1-menus
   #submenu: Afternoon
 
 # NOTE: first-timers page uses the link properties of the first events with
 # titles like "Breakout Sessions" and "Lightning Talks"
 # Breakouts
-- timeImg: 2.15.png
-  title: Breakout Sessions 1
-  day2: true
-  time: 14:15-15:15
-  link:
+#- timeImg: 2.15.png
+#  title: Breakout Sessions 1
+#  day2: true
+#  time: 14:15-15:15
+#  link:
 
 
 # lightning
-- timeImg: 3.00.png
-  title: Lightning Talks 1
-  day1: true
-  time: 15:00-16:15
-  link:
+#- timeImg: 3.00.png
+#  title: Lightning Talks 1
+#  day1: true
+#  time: 15:00-16:15
+#  link:
 
-- timeImg: 10.15.png
-  title: Lightning Talks 2
-  day2: true
-  time: 10:15-11:00
-  link:
+#- timeImg: 10.15.png
+#title: Lightning Talks 2
+#  day2: true
+#  time: 10:15-11:00
+#  link:
 
 
 # Poster Session
-- timeImg: 3.30.png
-  title: Poster Session - 2nd Floor, Atrium South
-  day2: false 
-  time: 15:30 - 16:00
-  link:
+#- timeImg: 3.30.png
+#  title: Poster Session - 2nd Floor, Atrium South
+#  day2: false 
+#  time: 15:30 - 16:00
+#  link:
 
 # wrap ups
-- timeImg: 5.00.png
-  title: Daily Wrap-up
-  day1: true
-  time: 17:00-17:15
+#- timeImg: 5.00.png
+#  title: Daily Wrap-up
+#  day1: true
+#  time: 17:00-17:15
 
-- timeImg: 4.55.png
-  title: Daily Wrap-up
-  day2: true
-  time: 16:55-17:10
+#- timeImg: 4.55.png
+#  title: Daily Wrap-up
+#  day2: true
+# time: 16:55-17:10
 
 
 # lunches
 - timeImg: 12.05.png
   title: Lunch
   day1: true
-  time: 12:05-13:15
+  time: 12:05-13:30
   #menu: day1-menus
   #submenu: Lunch
 
 - timeImg: 12.00.png
   title: Lunch
   day2: true
-  time: 12:00-13:15
+  time: 12:00-13:30
   #menu: day2-menus
   #submenu: Lunch
 
 # keynotes
-- timeImg: 9.15.png
+- timeImg: 9.00.png
   title: Opening Keynote
   day1: true
-  groupId: key-open
-  time: 09:15-10:00
+  day2: false 
+  groupId: key-open 
+  time: 09:00-09:30
+
+- timeImg: 9.00.png
+  title: Closing Keynote
+  day1: false
+  day2: true
+  groupId: key-close
+  time: 09:00-09:30
 
 
 # groups
-- timeImg: 10.15.png
-  title: Group 1&#58; 110 minutes (8 talks)
+- timeImg: 09.30.png
+  title: Group 3
   day1: false 
-  groupId: 1
-  time: 10:15-12:05
-
-- timeImg: 1.30.png
-  title: Group 2&#58; 75 minutes (4 talks)
-  day1: false 
-  groupId: 2
-  time: 13:30-14:45
-
-- timeImg: 4.15.png
-  title: Group 3&#58; 45 minutes (4 talks)
-  day1: false 
+  day2: true
   groupId: 3
-  time: 16:15-17:00
+  time: 09:30-12:00
 
-- timeImg: 9.15.png
-  title: Group 4&#58; 45 minutes (3 talks)
-  day2: false 
+- timeImg: 09.30.png
+  title: Group 1 
+  day1: true
+  day2: false
+  groupId: 1
+  time: 09:30-12:00
+
+- timeImg: 2.00.png
+  title: Group 2 
+  day1: true 
+  day2: false
+  groupId: 2
+  time: 14:00-17:00
+
+- timeImg: 2.00.png
+  title: Group 4
+  day1: false
+  day2: true
   groupId: 4
-  time: 09:15-10:00
-
-- timeImg: 11.00.png
-  title: Group 5&#58; 60 minutes (3 talks)
-  day2: false 
-  groupId: 5
-  time: 11:00-12:00
-
-- timeImg: 1.30.png
-  title: Group 6&#58; 45 minutes (3 talks)
-  day2: false 
-  groupId: 6
-  time: 13:30-14:15
-
-- timeImg: 4.00.png
-  title: Group 7&#58; 55 minutes (4 talks)
-  day2: false 
-  groupId: 7
-  time: 16:00-16:55
+  time: 14:00-17:00
 

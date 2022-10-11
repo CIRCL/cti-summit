@@ -26,4 +26,26 @@ He's a self-taught security researcher focusing on the mistakes made during depl
   image_alt: "Photo of Gregory Boddin"
   image_src: /assets/img/speakers/boddin.jpeg
   keynote: true
-
+- id: markus-ludwig
+  name: Markus Ludwig
+  last: Ludwig
+  pronouns:
+  institution: Ticura
+  image_alt: "Photo of Markus Ludwig"
+  image_src: /assets/img/speakers/markus-ludwig.png
+  position-title: CEO at Ticura
+  bio: "CEO at Ticura"
+  keynote: FALSE
+- id: paul-jung
+  name: Paul Jung
+  last: Jung
+  pronouns:
+  institution: Excellium Services
+  image_alt: "Photo of Paul Jung"
+  image_src: /assets/img/speakers/paul-jung.jpg
+  position-title: Lead at CERT-LXM
+  bio: "Paul Jung is since a long time a security enthusiast. He works in the security field in Luxembourg since more than two decades. During this time, Paul has covered operations as well as consulting within various industries. He possesses a wide range of skills and experiences that enable him to perform multiple roles from offensive security audit to security incident handling. From 2008 to 2014, prior to join Excellium Services, Paul was Senior Security Architect in the Managed Network Security department of the European Commission. In this previous position, Paul was responsible for leading technical aspects of security projects. He also wrote a few articles in MISC magazine (French) about DDos, Botnets and incident response. Since 2014, Paul works at Excellium Services. He leads Excellium Services CSIRT (CERT-XLM). Within this position, Paul leads the response team involved in incident handling and intrusion responses. Paul is often speaker at local events and some security conferences."
+  twitter:
+  slack:
+  github:
+  keynote: FALSE
