@@ -4,11 +4,11 @@ speakers-text: Patrice Auffret
 speakers:
 - patrice-auffret 
 day: 1
-group: key-open
 spot: 1
-length: 45
+group: key-open
+length: 30
 type: key-open
-startTime: 2022-10-19T09:15
+startTime: 2022-10-19T09:00
 categories: keynotes
 title: Patrice Auffret Keynote
 slides:
