@@ -136,3 +136,17 @@ He's a self-taught security researcher focusing on the mistakes made during depl
   image_src: /assets/img/speakers/antoine-cailliau.jpg
   bio: "Antoine Cailliau got a PhD degree in Computer Science Engineering from the Louvain School of Engineering, UCL (Belgium) in Feb 2018. His PhD thesis focused on risk management in software at a requirements-level. He is currently a Cyber Risk Prevention Expert for the Belgian Defense."
   keynote: FALSE
+- id: david-rufenacht
+  name: David Rufenacht
+  last: Rufenacht
+  institution: Infoguard
+  image_src: /assets/img/speakers/david-rufenacht.png
+  bio: "David Rüfenacht works as senior threat intelligence analyst at Infoguard. Previously he worked for the NCSC.ch and has a background in social sciences."
+  keynote: FALSE
+- id: jorina-baron
+  name: Jorina Baron
+  last: Baron
+  institution: Infoguard
+  image_src: /assets/img/speakers/jorina-baron.jpg
+  bio: "Jorina Baron recently graduated in computer science at ETH Zurich and currently works as a threat intelligence analyst at Infoguard."
+  keynote: FALSE
