@@ -157,3 +157,32 @@ He's a self-taught security researcher focusing on the mistakes made during depl
   image_src: /assets/img/speakers/alexandre-de-oliveira.jpg
   bio: "Passionnate about Telecom Networks and their security, I explore since 10years critical infrastructures around the world.  I work today at POST Luxembourg in the Cyberforce Labs & Innovation creating security solutions we provide to other operators around the world.  I had the chance to talk and give trainings at Hack.lu, HITB, Troopers, CCC, GSMA FASG, ENISA Telecom Security Forum, BSIDES Luxembourg & ETIS." 
   keynote: FALSE
+- id: christian-studer
+  name: Christian Studer
+  last: Studer
+  institution: CIRCL - Computer Incident Response Center Luxembourg
+  image_src: /assets/img/speakers/christian-studer.jpeg
+  bio: "Christian Studer joined CIRCL in 2017 after he graduated with a Master in Computer Science.  During his master thesis at CIRCL he showed his capacity to lead existing CIRCL software such as the Potiron framework, a tool to normalize, index and visualize network captures.  He is mainly working on MISP, contributing to the core development and several integrations with other tools and formats, most notable, he leads the STIX implementation of the project. He is also the co-chair of the OASIS CTI STIX Subcommittee."
+  keynote: FALSE
+- id: quentin-jerome
+  name: Quentin Jerome
+  last: Jerome
+  institution: rawsec.lu
+  image_src: /assets/img/speakers/quentin-jerome.png
+  bio: "Quentin has been working as incident responder for several years before focusing on endpoint threat detection. He recently dedicated all his time to an open-source EDR project. His main topics of interest are ranging from threat detection to bug hunting but what he likes the most is to develop tools and open-source them when he judges it is relevant enough to do so."
+  keynote: FALSE
+- id: andras-iklody
+  name: Andras Iklody
+  last: Iklody
+  institution: CIRCL - Computer Incident Response Center Luxembourg
+  image_src: /assets/img/speakers/andras-iklody.jpeg
+  bio: "Andras Iklody works at the Luxembourgian Computer Security Incident Response Team (CSIRT) CIRCL as a software developer and has been developing the MISP core since early 2013. He is a firm believer that there are no problems that cannot be tackled by building the right tool. He is also a big fan of Hungarian beers."
+  keynote: FALSE
+- id: sami-mokaddem
+  name: Sami Mokaddem
+  last: Mokaddem
+  institution: CIRCL - Computer Incident Response Center Luxembourg
+  image_src: /assets/img/speakers/sami-mokaddem.jpg
+  bio: "Sami Mokaddem is a software developer who has been contributing to the open-source community since 2016 in the fields of information sharing and leak detection. He is working for CIRCL and is part of the MISP core team where he develops and maintains the software as well as its related tools. He is Belgian and dislikes Hungarian beers."
+  keynote: FALSE
+

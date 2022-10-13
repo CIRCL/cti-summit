@@ -4,11 +4,11 @@ speakers-text: Alexandre De Oliveira
 speakers:
 - alexandre-de-oliveira 
 day: 1
-group: 4 
-spot: 4
+group: 2 
+spot: 5
 length: 30 
 type: talk 
-startTime: 2022-10-19T15:30
+startTime: 2022-10-19T16:30
 categories: talks 
 title: Actors and threats targeting telecom signalling networks 
 slides:
