@@ -150,3 +150,10 @@ He's a self-taught security researcher focusing on the mistakes made during depl
   image_src: /assets/img/speakers/jorina-baron.jpg
   bio: "Jorina Baron recently graduated in computer science at ETH Zurich and currently works as a threat intelligence analyst at Infoguard."
   keynote: FALSE
+- id: alexandre-de-oliveira
+  name: Alexandre De Oliveira
+  last: De Oliviera
+  institution: POST Luxembourg
+  image_src: /assets/img/speakers/alexandre-de-oliveira.jpg
+  bio: "Passionnate about Telecom Networks and their security, I explore since 10years critical infrastructures around the world.  I work today at POST Luxembourg in the Cyberforce Labs & Innovation creating security solutions we provide to other operators around the world.  I had the chance to talk and give trainings at Hack.lu, HITB, Troopers, CCC, GSMA FASG, ENISA Telecom Security Forum, BSIDES Luxembourg & ETIS." 
+  keynote: FALSE
